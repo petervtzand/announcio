@@ -135,7 +135,8 @@ src/
 
 # Thoughts about creating the app this way
 
-- Impressed about the way the actual app worked. It got the functionality exactly right. I only had to adjust some styling and timing, so it was better readable + full screen.
+- Impressed about the way the actual app worked. It got the functionality exactly right the first time. I only had to adjust some styling and timing, so it was better readable + full screen.
 - Also things like adding useful comments to a file saves a lot of time.
 - Setting up and installing a project, doesn't seem to go very efficient. It tries something, than if it fails goes into another path. If you're building a bigger app, I guess having a clear view yourself, or start with your own template is better.
--
+- It's easy to lose touch with your codebase. You feel like you lose control a little bit. It creates a lot of files you don't know the meaning of.
+- I have concerns about the code not feeling like your own code, maybe you don't 100% stand behind it. Especially when you're working in a bigger team, you might be hesitant to commit this. But I guess this can be solved by either QA'ing your own code or make sure Claude writes it better with the help of some files.
