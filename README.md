@@ -132,3 +132,10 @@ src/
 - **Storage:** AsyncStorage
 - **Animation:** JavaScript timers (setTimeout/setInterval)
 - **Platform Support:** iOS and Android
+
+# Thoughts about creating the app this way
+
+- Impressed about the way the actual app worked. It got the functionality exactly right. I only had to adjust some styling and timing, so it was better readable + full screen.
+- Also things like adding useful comments to a file saves a lot of time.
+- Setting up and installing a project, doesn't seem to go very efficient. It tries something, than if it fails goes into another path. If you're building a bigger app, I guess having a clear view yourself, or start with your own template is better.
+-
