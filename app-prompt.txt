@@ -1,0 +1,6 @@
+I want an react native app. With javascript. The idea of the app is that a user can give a sentence to the app. And choose a font color and background color. Then the user can hit play. Then in full screen every character of the sentence is displayed one by one. Each letter is shown for 0.1 sec. A space is an empty screen (only the background color). All letters must be shown in capital. When the sentence ends it shows
+only the background color for 0.5 seconds and then loops. When touching the screen it goes back to the page with the user inputs.
+
+The data of the user must be saved in local storage
+
+I want a readme that gives instructions how to start the app in development

@@ -26,11 +26,13 @@ A React Native app that displays text character by character with customizable c
 ### Installation
 
 1. **Navigate to the project:**
+
    ```bash
-   cd Announcio
+   cd announcio
    ```
 
 2. **Install dependencies:**
+
    ```bash
    npm install
    ```
@@ -46,11 +48,13 @@ A React Native app that displays text character by character with customizable c
 ### Running the App
 
 #### For iOS (macOS only):
+
 ```bash
 npx react-native run-ios
 ```
 
 #### For Android:
+
 1. Start an Android emulator or connect an Android device
 2. Run:
    ```bash
@@ -60,16 +64,19 @@ npx react-native run-ios
 ### Development Commands
 
 - **Start Metro bundler:**
+
   ```bash
   npx react-native start
   ```
 
 - **Clear cache if needed:**
+
   ```bash
   npx react-native start --reset-cache
   ```
 
 - **Clean build (if facing issues):**
+
   ```bash
   # iOS
   cd ios && xcodebuild clean && cd ..
@@ -92,6 +99,7 @@ src/
 ### How to Use
 
 1. **Input Screen:**
+
    - Enter your text message (max 200 characters)
    - Select font color from the color palette
    - Select background color from the color palette
@@ -99,6 +107,7 @@ src/
    - Tap "PLAY" to start the animation
 
 2. **Display Screen:**
+
    - Characters appear one by one in uppercase
    - Each character shows for 0.1 seconds
    - Spaces display as empty background
