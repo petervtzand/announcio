@@ -1,6 +1,6 @@
 # announcio
 
-A React Native app that displays text character by character with customizable colors and looping animation.
+A React Native app that displays text character by character with customizable colors and looping animation. I created this app with claude code, to test its capabilities.
 
 ## Features
 
